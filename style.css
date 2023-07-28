@@ -42,6 +42,8 @@ h1{
         width: 90%; /* Adjust the width to your preference */
         height: auto;
         max-width: 400px;
+        margin-left: 5px;
+        margin-right:5px;
     }}
 .call{
     margin-top: 28px;
